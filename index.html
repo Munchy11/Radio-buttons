@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <script src="index.js" defer></script>
+
+    <title>If This, Then That</title>
+  </head>
+  <body>
+    <form>
+      <fieldset>
+        <legend class="radBtn">Radio Button</legend>
+
+        <!-- Radio 1 -->
+        <input
+          type="radio"
+          name="rad"
+          value="Radio"
+          id="redBtn"
+          onClick="changeColour('red')"
+        />
+        <label class="redBtn">Red</label>
+
+        <!-- Radio 3 -->
+        <input
+          type="radio"
+          name="rad"
+          id="greenBtn"
+          value="Radio"
+          onClick="changeColour('green')"
+        />
+        <label class="greenBtn">Green</label>
+
+        <!-- Radio 2 -->
+        <input
+          type="radio"
+          name="rad"
+          id="blueBtn"
+          value="Radio"
+          onClick="changeColour('blue')"
+        />
+
+        <label class="blueBtn">Blue</label>
+      </fieldset>
+    </form>
+  </body>
+</html>
