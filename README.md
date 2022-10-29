@@ -2,6 +2,6 @@
 
 ### Lucas Muenchrath
 
-### Link To GH Pages: https://munchy11.github.io/cpnt262-a2/
+### Link To GH Pages: 
 
 ### Code Attributions: https://www.youtube.com/watch?v=XYzSyPlY7_E&t=283s
