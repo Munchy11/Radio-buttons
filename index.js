@@ -40,6 +40,11 @@ function changeColour(value)
 
   blueBtn.classList.add('bold');
 
+  
+  
+  // *TODO* //
+  // I would like to add a toggle switch that changes the color of green to more of a gradient so you can see a few different green colors, red or blue etc. //
+  
 
   
 
