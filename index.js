@@ -1,6 +1,6 @@
 
 
-// Good Version //
+// Button Colors //
 
 function changeColour(value)
 {
@@ -38,7 +38,7 @@ function changeColour(value)
   let blueBtn = document.getElementById('blueBtn');
   console.log(blueBtn.classlist);
 
-  // blueBtn.classList.add('bold');
+  blueBtn.classList.add('bold');
 
 
   

@@ -1,11 +1,19 @@
 .blueBtn {
   color: black;
   font-weight: bold;
+  justify-content: center;
+  display: flex;
+  margin: auto;
+  padding: 10px;
 }
 
 .redBtn {
 color: black;
 font-weight: bold;
+display: flex;
+justify-content: center;
+margin: auto;
+padding: 10px;
 }
 
 .bold {
@@ -14,4 +22,32 @@ font-weight: bold;
 
 .greenBtn {
   font-weight: bold;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding: 10px; 
 }
+
+.radBtn {
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  font-size: 50px;
+  padding: 25px;
+
+}
+
+.input {
+ display: flex;
+  text-align: center;
+ margin: auto;
+}
+
+.Radio {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding: 10px; 
+}
+
